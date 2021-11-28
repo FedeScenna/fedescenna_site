@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://blissful-swanson-6753e6.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Federico Scenna"
