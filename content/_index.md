@@ -5,7 +5,7 @@ action_type: text
 description: I am a data scientist and economist. At my day job, I work in the retail industry bringing machine learning and data mining solutions. Previously, I worked in banking and consulting industries. Currently, I am finishing a masters degree in Data Mining and Machine Learning @ Universidad de Buenos Aires.
 image_left: true
 images:
-- img/revoir.jpg
+- img/AYUDA_st.jpg
 show_action_link: true
 show_social_links: true
 subtitle: Data Scientist & Economist
