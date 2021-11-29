@@ -1,9 +1,9 @@
 ---
-author: The R Markdown Team @RStudio
+author: Federico Scenna
 cascade:
-  author: The R Markdown Team @RStudio
+  author: Federico Scenna
   show_author_byline: true
-  show_comments: true
+  show_comments: false
   show_post_date: true
   sidebar:
     show_sidebar_adunit: false
@@ -16,7 +16,7 @@ show_author_byline: true
 show_post_date: true
 show_post_thumbnail: true
 sidebar:
-  author: The R Markdown Team @RStudio
+  author: Federico Scenna
   description: "This is a fully featured blog that supports categories,\ntags, series,
     and pagination. Even this sidebar offers \na ton of customizations.\n\nCheck out
     the _index.md file in the /blog folder \nto edit this content. \n"
