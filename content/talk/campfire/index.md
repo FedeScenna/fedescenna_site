@@ -1,7 +1,5 @@
 ---
 author: Federico Scenna
-categories:
-- workshop
 date: "2024-10-24"
 date_end: "2024-10-24"
 draft: false

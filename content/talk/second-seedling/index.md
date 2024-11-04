@@ -1,7 +1,5 @@
 ---
 author: Federico Scenna
-categories:
-- meetup
 date: "2024-11-07T14:15:59-06:00"
 date_end: "2021-11-07T14:45:59-06:00"
 draft: false
