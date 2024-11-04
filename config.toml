@@ -1,4 +1,4 @@
-baseURL = "https://fscenna.netlify.com/"
+baseURL = "https://fscenna.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Federico Scenna"
