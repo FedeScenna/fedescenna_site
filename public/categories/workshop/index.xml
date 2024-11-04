@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workshop on Federico Scenna</title>
-    <link>http://localhost:4321/categories/workshop/</link>
+    <link>https://fscenna.netlify.com/categories/workshop/</link>
     <description>Recent content in Workshop on Federico Scenna</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 24 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:4321/categories/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fscenna.netlify.com/categories/workshop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A network analysis of crypto assets</title>
-      <link>http://localhost:4321/talk/campfire/</link>
+      <link>https://fscenna.netlify.com/talk/campfire/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/talk/campfire/</guid>
+      <guid>https://fscenna.netlify.com/talk/campfire/</guid>
       <description></description>
     </item>
   </channel>
