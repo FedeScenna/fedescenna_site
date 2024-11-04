@@ -8,7 +8,7 @@ draft: false
 excerpt: Talk gave @ Nerdearla MX - Spanish
 layout: single
 location: Online
-subtitle: Testing
+subtitle: 
 title: Why be baesian when I'm already a frequentist?
 ---
 
