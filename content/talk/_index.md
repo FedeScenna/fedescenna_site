@@ -15,15 +15,15 @@ description: |
 layout: list
 show_author_byline: true
 show_button_links: true
-show_post_date: false
-show_post_thumbnail: false
-show_post_time: false
+show_post_date: true
+show_post_thumbnail: true
+show_post_time: true
 sidebar:
   author: Federico Scenna
   description: "This is a list for your talks, workshops, or \nother events with a
     time, date, and place. \nEven this sidebar offers a ton of customizations.\n\nCheck
     out the _index.md file in the /talk folder \nto edit this content. \n"
-  show_sidebar_adunit: false
+  show_sidebar_adunit: true
   text_link_label: Subscribe via RSS
   text_link_url: /talk/index.xml
   title: Talks
