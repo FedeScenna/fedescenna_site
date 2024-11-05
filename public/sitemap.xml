@@ -2,75 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4321/collection/day02/01-netlify/</loc>
+    <loc>https://fscenna.netlify.app/collection/day02/01-netlify/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/collection/day01/01-github/</loc>
+    <loc>https://fscenna.netlify.app/collection/day01/01-github/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/collection/prework/</loc>
+    <loc>https://fscenna.netlify.app/collection/prework/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/collection/day01/</loc>
+    <loc>https://fscenna.netlify.app/collection/day01/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/collection/day01/02-postcards/</loc>
+    <loc>https://fscenna.netlify.app/collection/day01/02-postcards/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/collection/day02/02-blogdown/</loc>
+    <loc>https://fscenna.netlify.app/collection/day02/02-blogdown/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/collection/day02/</loc>
+    <loc>https://fscenna.netlify.app/collection/day02/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/collection/day01/03-distill/</loc>
+    <loc>https://fscenna.netlify.app/collection/day01/03-distill/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/collection/day02/03-blogdown/</loc>
+    <loc>https://fscenna.netlify.app/collection/day02/03-blogdown/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/</loc>
+    <loc>https://fscenna.netlify.app/</loc>
     <lastmod>2024-11-07T14:15:59-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/talk/</loc>
+    <loc>https://fscenna.netlify.app/talk/</loc>
     <lastmod>2024-11-07T14:15:59-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/talk/second-seedling/</loc>
-    <lastmod>2024-11-07T14:15:59-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/talk/campfire/</loc>
+    <loc>https://fscenna.netlify.app/talk/pricing_nerdearla/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/collection/</loc>
+    <loc>https://fscenna.netlify.app/collection/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/contact/</loc>
+    <loc>https://fscenna.netlify.app/contact/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/form/</loc>
+    <loc>https://fscenna.netlify.app/form/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/elements/</loc>
+    <loc>https://fscenna.netlify.app/elements/</loc>
     <lastmod>2019-02-18T12:27:33-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/about/header/</loc>
+    <loc>https://fscenna.netlify.app/about/header/</loc>
   </url><url>
-    <loc>http://localhost:4321/blog/</loc>
+    <loc>https://fscenna.netlify.app/blog/</loc>
   </url><url>
-    <loc>http://localhost:4321/project/</loc>
+    <loc>https://fscenna.netlify.app/project/</loc>
   </url><url>
-    <loc>http://localhost:4321/about/</loc>
+    <loc>https://fscenna.netlify.app/about/</loc>
   </url><url>
-    <loc>http://localhost:4321/about/main/</loc>
+    <loc>https://fscenna.netlify.app/about/main/</loc>
   </url><url>
-    <loc>http://localhost:4321/categories/</loc>
+    <loc>https://fscenna.netlify.app/categories/</loc>
   </url><url>
-    <loc>http://localhost:4321/contributors/</loc>
+    <loc>https://fscenna.netlify.app/contributors/</loc>
   </url><url>
-    <loc>http://localhost:4321/license/</loc>
+    <loc>https://fscenna.netlify.app/license/</loc>
   </url><url>
-    <loc>http://localhost:4321/series/</loc>
+    <loc>https://fscenna.netlify.app/series/</loc>
   </url><url>
-    <loc>http://localhost:4321/tags/</loc>
+    <loc>https://fscenna.netlify.app/tags/</loc>
   </url>
 </urlset>
