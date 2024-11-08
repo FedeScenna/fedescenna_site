@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks on Federico Scenna</title>
-    <link>https://fscenna.netlify.app/talk/</link>
+    <link>http://localhost:4321/talk/</link>
     <description>Recent content in Talks on Federico Scenna</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://fscenna.netlify.app/talk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Nov 2024 14:15:59 -0600</lastBuildDate>
+    <atom:link href="http://localhost:4321/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why be baesian when I&#39;m already a frequentist?</title>
+      <link>http://localhost:4321/talk/workshop_redes/</link>
+      <pubDate>Thu, 07 Nov 2024 14:15:59 -0600</pubDate>
+      <guid>http://localhost:4321/talk/workshop_redes/</guid>
+      <description></description>
+    </item>
     <item>
       <title>A network analysis of crypto assets</title>
-      <link>https://fscenna.netlify.app/talk/pricing_nerdearla/</link>
+      <link>http://localhost:4321/talk/pricing_nerdearla/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://fscenna.netlify.app/talk/pricing_nerdearla/</guid>
+      <guid>http://localhost:4321/talk/pricing_nerdearla/</guid>
       <description></description>
     </item>
   </channel>
