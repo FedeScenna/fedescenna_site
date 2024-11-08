@@ -5,7 +5,7 @@ action_type: text
 description: 
 image_left: true
 images:
-- img/foto_bariloche.jpeg
+- 
 show_action_link: true
 show_social_links: true
 subtitle: DATA SCIENTIST & ECONOMIST
