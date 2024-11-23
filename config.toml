@@ -146,7 +146,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Blog"
     title = "Blog"
-    url = "https://scenna.substack.com/"
+    url = "https://experimentafterall.substack.com/"
     weight = 2
 #  [[menu.header]]
 #    name = "Projects"
